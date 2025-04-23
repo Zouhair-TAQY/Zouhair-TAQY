@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zouhair</h1>
-<h3 align="center">I'm 💻 Front-End Developer | Passionate about clean code and beautiful design</h3>
+<h3 align="center">I'm Front-End Developer | Freelancer | AI Tools Lover </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouhair-taqy&label=Profile%20views&color=0e75b6&style=flat" alt="zouhair-taqy" /> </p>
 
-- 👯 I’m looking to collaborate on **Excited to collaborate on frontend projects — from building cool UIs to solving real-world problems.**
+- 👯 I’m looking to collaborate on **frontend projects from building cool UIs to solving real-world problems.**
 
 - 📫 How to reach me **zouhairettaqy@gmail.com**
+- 🌱 I'm currently learning **Currently learning React.js, Node.js, and Next.js to master modern web development**
+
 
 - ⚡ Fun fact **I just got started, but I’m moving with the energy of a veteran**
 
