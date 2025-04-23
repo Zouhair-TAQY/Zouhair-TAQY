@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **frontend projects from building cool UIs to solving real-world problems.**
 
 - 📫 How to reach me **zouhairettaqy@gmail.com**
-- 🌱 I'm currently learning ** React.js, Node.js, and Next.js to master modern web development**
+- 🌱 I'm currently learning **React.js, Node.js, and Next.js to master modern web development**
 
 
 - ⚡ Fun fact **I just got started, but I’m moving with the energy of a veteran**
